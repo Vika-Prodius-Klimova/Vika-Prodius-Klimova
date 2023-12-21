@@ -76,12 +76,12 @@
 <h2>Test Artifacts :star:</h2>
 <p> 
  <ul>
-<li>  <a href="">Webshop testing</a>  </li>
-<li>  <a href=""> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="">MySQL</a>   </li>
-<li>  <a href="">MongoDB</a>  </li>
-<li>  <a href=""> Android app testing</a>   </li>
-<li> <a href="">Replacing data with CharlesProxy</a>  </li>
-<li> <a href=""> Bash </a>  </li>
-<li> <a href=""> Git </a> </li>
+<li>  <a href="https://github.com/Vika-Prodius-Klimova/Web-app-testing">Web app testing</a>  </li>
+<li>  <a href="https://github.com/Vika-Prodius-Klimova/REST-and-SOAP-API-Postman"> REST and SOAP API Postman </a>   </li>
+<li> <a href="https://github.com/Vika-Prodius-Klimova/MySQL">MySQL</a>   </li>
+<li>  <a href="https://github.com/Vika-Prodius-Klimova/MongoDB">MongoDB</a>  </li>
+<li>  <a href="https://github.com/Vika-Prodius-Klimova/Mobile-app-testing"> Mobile app testing</a>   </li>
+<li> <a href="https://github.com/Vika-Prodius-Klimova/Charles-Proxy"> CharlesProxy</a>  </li>
+<li> <a href="https://github.com/Vika-Prodius-Klimova/Bash"> Bash </a>  </li>
+<li> <a href="https://github.com/Vika-Prodius-Klimova/Git"> Git </a> </li>
 </ul>
